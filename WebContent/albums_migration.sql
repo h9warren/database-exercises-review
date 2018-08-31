@@ -9,3 +9,4 @@ CREATE TABLE IF NOT EXISTS codeup_test_db.albums (
 	genre VARCHAR(30),
 	PRIMARY KEY (ID)
 );
+/* adding some comments for fun! */
