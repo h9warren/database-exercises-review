@@ -10,3 +10,4 @@ CREATE TABLE IF NOT EXISTS codeup_test_db.albums (
 	PRIMARY KEY (ID)
 );
 /* comments alone won't do it */
+S
